@@ -30,7 +30,11 @@ An Outlier is an observation in a given dataset that lies far from the rest of t
 4. Remove the outliers
 5. Plot the datas using Box Plot
 
-### PROGRAM 
+### PROGRAM
+
+NAME : RAJESHKANNAN.M
+REG NO: 212221230081
+
 
 #### (1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe
 
