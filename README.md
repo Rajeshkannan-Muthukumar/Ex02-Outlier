@@ -172,3 +172,5 @@ sns.boxplot(x="height",data=df5)
 ![3-10](https://user-images.githubusercontent.com/93901857/190849576-5dcc7b18-3774-4806-8c10-7e27bc68cc4a.jpg)
 
 
+### RESULT
+The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
